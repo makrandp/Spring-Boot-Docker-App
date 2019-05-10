@@ -3,12 +3,10 @@ Spring-Boot App with Docker
 
 # Setup
 ```$xslt
-* mvn install
-* mvn package
-* docker-compose up 
+1. mvn install
+2. mvn package
+3. docker-compose up 
 ```
 
 ## API endpoint
-```$xslt
-http://localhost:8080/hello
-```
+[http://localhost:8080/hello](http://localhost:8080/hello)
